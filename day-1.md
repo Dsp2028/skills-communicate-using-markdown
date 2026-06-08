@@ -12,4 +12,4 @@
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
 </h2>
-<h1>![Cloudy morning](https://octodex.github.com/images/cloud.jpg)</h1>
+<h1><img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right"></h1>
